@@ -2,5 +2,5 @@
  Projeto de um site criando durante o CEV de Git e Github
  
  
- ![site](https://user-images.githubusercontent.com/61032570/86876259-b3ba4300-c0ba-11ea-8e30-4e10bb1c0daa.png)
+![Site](https://user-images.githubusercontent.com/61032570/86951982-acca1980-c128-11ea-8b19-6abbb6191818.png)
 
